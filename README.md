@@ -13,9 +13,13 @@ Ceci est un titre avec des tirets
 
 Une liste à puce :
 
--Une puce
+- Une puce
 
--Une autre puce
+- Une autre puce
 
-Bonjour
-bienveue
+    * Une sous-puce
+    * Une autre sous-puce
+
+1. Un
+
+2. Deux
