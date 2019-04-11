@@ -23,3 +23,13 @@ Une liste à puce :
 1. Un
 
 2. Deux
+
+    Voici un code en C :
+
+    int main()
+    {
+        printf("Hello world!\n");
+        return 0;
+    }
+
+La fonction `pintf()` permet d'afficher du texte
